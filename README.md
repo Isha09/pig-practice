@@ -1,7 +1,7 @@
 # pig-practice
 This covers simple pig assignment.
 
-Sample data has info on hotels in jason format.
+Sample data has info on hotels in json format.
 
 Assignment covers following simple questions:
 
